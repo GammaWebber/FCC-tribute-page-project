@@ -1,0 +1,43 @@
+html{
+    background-color: #EEEEEE;
+  }
+  
+  body{
+    font-family: "Heveltica", sans-serif;
+    font-size: 20px;
+    text-align: center;
+  }
+  
+  #title {
+    text-align: center
+  }
+  
+  img{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+  }
+  
+  #img-caption{
+    margin-top: 10px;
+    margin-bottom: 40px;
+  }
+  
+  header > h1{
+    margin-bottom: -20px;
+    padding-top: 30px;
+  }
+  
+  h2 {
+    font-size: 18px;
+  }
+  
+  Ul{
+    max-width: 70%;
+    margin: auto;
+  }
+
+  #tribute-info{
+    list-style: none;
+  }
